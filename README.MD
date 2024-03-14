@@ -12,7 +12,17 @@
 
 
 
-Downloaded from https://wokwi.com/projects/392344769861539841
+Simulate this projec && Downloaded from https://wokwi.com/projects/392344769861539841
 
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
 
-Simulate this project on https://wokwi.com
+<p align="center">
+<a href="https://t.me/Aruack_official"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/aruacksupport"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
