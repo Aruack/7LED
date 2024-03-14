@@ -3,9 +3,6 @@
 </h2>
 <video><source src='7led.webm'></video>
 
-<p align="center">
-  <img src="7LED.jpg">
-</p>
 
 Downloaded from https://wokwi.com/projects/392344769861539841
 
