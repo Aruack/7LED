@@ -1,7 +1,9 @@
 <h2 align="center">
     ──「 7LED 」──
 </h2>
-
+<p align="center">
+  <img src="7led.webm">
+</p>
 <p align="center">
   <img src="7LED.jpg">
 </p>
