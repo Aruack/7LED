@@ -2,7 +2,7 @@
     ──「 7LED 」──
 </h2>
 <p align="center">
-  <img src="7led.webm">
+<video><source src='7led.webm'></video>
 </p>
 <p align="center">
   <img src="7LED.jpg">
